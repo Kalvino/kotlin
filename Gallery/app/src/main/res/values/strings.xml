@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="first">still Life of red rose and Other Flowers</string>
+    <string name="second">still Life of green rose and Other Flowers</string>
+    <string name="third">still Life of blue rose and Other Flowers</string>
+    <string name="fourth">still Life of white rose and Other Flowers</string>
+
+    <string name="red_rose">Red Rose and other flowers</string>
+    <string name="green_rose">Green Rose and other flowers</string>
+    <string name="blue_rose">Blue Rose and other flowers</string>
+    <string name="white_rose">White Rose and other flowers</string>
+
+    <string name="first_artist">Leonardo da Vinci</string>
+    <string name="second_artist">Pablo Picasso</string>
+    <string name="third_artist">Vincent van Gogh</string>
+    <string name="fourth_artist">Michelangelo</string>
+
+    <string name="first_year">(1452)</string>
+    <string name="second_year">(1881)</string>
+    <string name="third_year">(1853)</string>
+    <string name="fourth_year">(1475)</string>
+
+</resources>
